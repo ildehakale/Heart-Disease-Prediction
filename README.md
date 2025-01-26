@@ -1,2 +1,2 @@
-# Heart Disease Classification
+# Heart Disease Prediction
  
